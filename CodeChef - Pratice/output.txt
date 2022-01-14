@@ -1,0 +1,4 @@
+The number is a Perfect number!
+The number is a Perfect number!
+The number is not a Perfect number!
+The number is not a Perfect number!
